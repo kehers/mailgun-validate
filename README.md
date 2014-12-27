@@ -7,9 +7,9 @@ Simple email validation for node.js using Mailgun's API. Performs
 - Spell checks
 - Email Service Provider (ESP) specific local-part grammar (if available).
 
-You will need to sign up at [https://mailgun.net](mailgun.net) for a public API key.
+You will need to sign up at [mailgun.net](https://mailgun.net/) for a public API key.
 
-A PHP version is also available here: [https://github.com/kehers/MG_Email](github.com/kehers/MG_Email).
+A PHP version is also available here: [github.com/kehers/MG_Email](https://github.com/kehers/MG_Email/).
 
 ### Installation
 
