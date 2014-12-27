@@ -1,0 +1,24 @@
+{
+  "name": "mailgun-validate",
+  "version": "0.1.0",
+  "description": "Email validation for node.js using Mailgun's API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kehers/mailgun-validate"
+  },
+  "keywords": [
+    "mailgun",
+    "email",
+    "validate"
+  ],
+  "author": "Opeyemi Obembe <kehers@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kehers/mailgun-validate/issues"
+  },
+  "homepage": "https://github.com/kehers/mailgun-validate"
+}
